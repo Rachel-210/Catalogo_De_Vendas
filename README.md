@@ -2,6 +2,8 @@
 
 Este é um projeto de **Catálogo Interativo de Vendas**, desenvolvido para oferecer uma experiência premium na visualização de motocicletas e planos de consórcio/financiamento. O diferencial técnico deste projeto é a gestão de dados **totalmente externa via Google Sheets**, permitindo atualizações de preços e planos em tempo real sem a necessidade de alterar o código-fonte.
 
+ACESSE AQUI!: https://rachel-210.github.io/Catalogo_De_Vendas/
+
 
 ## 🚀 Funcionalidades
 
